@@ -1,0 +1,6 @@
+selected resource name:		DynamicGITtoRAW
+selected resource type:		pipeline
+factory name:			adventure11ADF
+factory location:		eastus
+subscription id:		90800478-a6e6-4fa5-950c-b290158791d3
+time of download (UTC):		Wed, 18 Nov 2026 21:42:55 GMT

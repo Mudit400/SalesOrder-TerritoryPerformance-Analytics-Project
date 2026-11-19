@@ -1,0 +1,22 @@
+{
+    "name": "AWProductDS",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "AWhttpLS",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "DelimitedText",
+        "typeProperties": {
+            "location": {
+                "type": "HttpServerLocation",
+                "relativeUrl": "Mudit400/AdventureWorkSalesDataset/refs/heads/main/AdventureWorks_Products.csv"
+            },
+            "columnDelimiter": ",",
+            "escapeChar": "\\",
+            "firstRowAsHeader": true,
+            "quoteChar": "\""
+        },
+        "schema": []
+    }
+}

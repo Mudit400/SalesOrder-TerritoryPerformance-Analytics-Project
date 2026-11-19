@@ -1,0 +1,23 @@
+{
+    "now": "2026-11-18T21:42:14.466Z",
+    "perfNow": 97091850.69999999,
+    "diagnosticCorrelation": "a92a69b1-e31a-4bac-8bef-d5266efaa14c",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.110526.11",
+        "environmentType": 3,
+        "resourceName": "adventure11ADF",
+        "resourceRegion": "eastus",
+        "resourceGroup": "ADEProject_AdventureWork",
+        "subscriptionId": "90800478-a6e6-4fa5-950c-b290158791d3",
+        "sessionId": "Y8wlmxP0fzN9HFTUl+Zif2",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "f022b412-99db-4044-87f3-63930bff26d8"
+    },
+    "additionalInfo": {
+        "selectedResource": "GitToRaw",
+        "selectedResourceType": "pipeline"
+    }
+}

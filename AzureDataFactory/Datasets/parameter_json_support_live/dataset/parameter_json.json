@@ -1,0 +1,32 @@
+{
+    "name": "parameter_json",
+    "properties": {
+        "linkedServiceName": {
+            "referenceName": "adlsgen2awLS",
+            "type": "LinkedServiceReference"
+        },
+        "annotations": [],
+        "type": "Json",
+        "typeProperties": {
+            "location": {
+                "type": "AzureBlobFSLocation",
+                "fileName": "parameters.json",
+                "fileSystem": "parameters"
+            }
+        },
+        "schema": {
+            "type": "object",
+            "properties": {
+                "p_rel_url": {
+                    "type": "string"
+                },
+                "p_folder_name": {
+                    "type": "string"
+                },
+                "p_file_name": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

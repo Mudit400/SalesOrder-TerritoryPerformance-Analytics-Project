@@ -1,0 +1,23 @@
+{
+    "now": "2026-11-19T06:59:10.587Z",
+    "perfNow": 130507981.5,
+    "diagnosticCorrelation": "ce9d1ce6-0d41-4d12-9028-15ef595c31e7",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.110526.11",
+        "environmentType": 3,
+        "resourceName": "adventure11ADF",
+        "resourceRegion": "eastus",
+        "resourceGroup": "ADEProject_AdventureWork",
+        "subscriptionId": "90800478-a6e6-4fa5-950c-b290158791d3",
+        "sessionId": "4cm6slHgMc2uoyA/H/LpLE",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "f022b412-99db-4044-87f3-63930bff26d8"
+    },
+    "additionalInfo": {
+        "selectedResource": "ds_dynamic",
+        "selectedResourceType": "dataset"
+    }
+}
