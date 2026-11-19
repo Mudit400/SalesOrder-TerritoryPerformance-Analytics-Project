@@ -1,0 +1,6 @@
+﻿NAME,TYPE,LOCATION,RESOURCE LINK
+"adlsgen2adventure11","Storage account","East US","https://portal.azure.com#resource/subscriptions/90800478-a6e6-4fa5-950c-b290158791d3/resourceGroups/ADEProject_AdventureWork/providers/Microsoft.Storage/storageAccounts/adlsgen2adventure11"
+"adventure11ADF","Data factory (V2)","East US","https://portal.azure.com#resource/subscriptions/90800478-a6e6-4fa5-950c-b290158791d3/resourceGroups/ADEProject_AdventureWork/providers/Microsoft.DataFactory/factories/adventure11ADF"
+"aw-project-adb","Azure Databricks Service","East US","https://portal.azure.com#resource/subscriptions/90800478-a6e6-4fa5-950c-b290158791d3/resourceGroups/ADEProject_AdventureWork/providers/Microsoft.Databricks/workspaces/aw-project-adb"
+"awproject11-synapse","Synapse workspace","Central India","https://portal.azure.com#resource/subscriptions/90800478-a6e6-4fa5-950c-b290158791d3/resourceGroups/ADEProject_AdventureWork/providers/Microsoft.Synapse/workspaces/awproject11-synapse"
+"synapsestorageaw","Storage account","East US","https://portal.azure.com#resource/subscriptions/90800478-a6e6-4fa5-950c-b290158791d3/resourceGroups/ADEProject_AdventureWork/providers/Microsoft.Storage/storageAccounts/synapsestorageaw"
