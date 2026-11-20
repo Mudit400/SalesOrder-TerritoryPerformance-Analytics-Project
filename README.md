@@ -95,7 +95,7 @@ The repository contains two ADF pipeline definitions:
 
 The parameter JSON contains relative GitHub paths and destination folder/file names for the AdventureWorks source files. The HTTP linked service supplies the base endpoint, while the dataset uses the relative URL.
 
-![Azure Data Factory pipeline](docs/images/adf-pipeline.jpeg)
+![Azure Data Factory Pipeline](ProjectSnapshots/ADFPipeline.jpeg)
 
 ### 2. Bronze — Raw landing
 
