@@ -36,7 +36,7 @@ Azure Data Factory orchestrates ingestion, Azure Data Lake Storage Gen2 stores t
 
 ## 🏗️ Architecture
 
-![AdventureWorks project architecture](docs/images/architecture.jpeg)
+![Azure Data Factory Pipeline](ProjectSnapshots/ProjectArchitecture.jpeg)
 
 ### Data flow
 
@@ -111,7 +111,7 @@ The Bronze container holds source CSV datasets, including:
 
 The Bronze layer preserves the ingested source files for downstream processing.
 
-![ADLS Gen2 containers](docs/images/adls-containers.jpeg)
+![Azure Data Factory Pipeline](ProjectSnapshots/Container.jpeg)
 
 ### 3. Silver — Databricks transformations
 
@@ -147,7 +147,7 @@ The included final sales dataset has these fields:
 
 The included Power BI report screenshot shows a dark-themed sales and territory analytics page with KPI cards, sales/product visuals and a geographical map.
 
-![Power BI sales and territory performance dashboard](docs/images/powerbi-dashboard.jpeg)
+![Azure Data Factory Pipeline](ProjectSnapshots/AnalyticsReportsPowerBI.jpeg)
 
 ### Example analysis areas
 
@@ -165,11 +165,11 @@ The report is intended for exploratory analysis of the available fields. The sup
 
 ### Azure resources
 
-![Azure resources](docs/images/azure-resources.jpeg)
+![Azure Data Factory Pipeline](ProjectSnapshots/AllResources.jpeg)
 
 ### Resource group
 
-![Azure resource group](docs/images/resource-group.png)
+![Azure Data Factory Pipeline](ProjectSnapshots/ResourceGroup.png)
 
 ---
 
